@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dyan
 - 👀 I’m interested in thinking.
-- 🌱 I’m currently learning computer
+- 🌱 I’m currently learning computer.
 - 💞️ I’m looking to collaborate on site development.
 - 📫 How to reach me : 657841244@qq.com/18815282793
 
